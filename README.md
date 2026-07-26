@@ -7,7 +7,7 @@
 - Exceedance probability supports risk-informed and reliability-based hydraulic design 
 - SHAP analysis reveals physically consistent feature importance and interaction effects
 
-![TabPFN for scour depth prediction](https://github.com/hauldhut/TabMSD/blob/main/TabPFN-3-Adapted.png)
+![TabPFN for scour depth prediction](https://github.com/hauldhut/TabBPSD/blob/main/TabPFN-3-Adapted.png)
 
 ## Repo structure
 - **Data**: Contains all datasets 
