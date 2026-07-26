@@ -13,7 +13,7 @@ The analysis follows this order: Performance assessment → Physical interpretab
 - *UncertaintyQuantification.py*: For uncertainty quantification. Note: Change the param_name = "yb" or "VVc"
 
 4. Exceedance probability
-- *ExceedanceProbability.py*: For exceedance probability analysis
+- *ExceedanceProbability.py*: For exceedance probability analysis. Note: Change the param_name = "yb" or "VVc"
 
 5. Figure Creation
 - *combine_Interpretability_3Plots.py*: To create Figure 3
