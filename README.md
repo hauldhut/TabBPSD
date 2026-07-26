@@ -9,7 +9,7 @@
 
 ![TabPFN for scour depth prediction](https://github.com/hauldhut/TabBPSD/blob/main/TabPFN-3-Adapted.png)
 
-Performance comparison
+### Performance comparison between TabPFN and tree-based models
 
 
 | Model | CC | R² | RMSE | MAE | MAPE | MBE |
