@@ -1,7 +1,0 @@
-name: TabPFN
-channels:
-  - defaults
-dependencies:
-  - python=3.12
-  - ipykernel
-prefix: /home/hauld/.conda/envs/TabPFN
