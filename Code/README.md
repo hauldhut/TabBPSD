@@ -2,7 +2,9 @@
 
 ## Environment Setup
 - **Create conda environment**
-  - *conda env create -f TabBPSD.yml*: To run DeepDisSNP
+  - conda create -n TabBPSD python=3.12
+  - conda activate TabBPSD
+  - pip install -r requirements.txt
 
 ## Experiments
 The analysis follows this order: Performance assessment → Physical interpretability → Uncertainty quantification → Exceedance probability → Figure Creation
